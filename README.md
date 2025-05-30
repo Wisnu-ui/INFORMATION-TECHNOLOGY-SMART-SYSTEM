@@ -1,3 +1,5 @@
+[Link Karya](https://drive.google.com/drive/folders/1FNbPrl3ttWD-k8DK7k8nIZBa4yzaIEsb)
+
 # Robot Hand Gesture Control System
 
 This project implements a real-time hand gesture control system that allows you to control a robot using hand movements captured through a webcam. The system uses computer vision to track hand gestures and publishes the coordinates and grip state to an MQTT broker.
